@@ -137,6 +137,7 @@ class EmployeeScheduling:
 
 def main():
     print("ТАБУ ПОИСК ДЛЯ ЗАДАЧИ ПЛАНИРОВАНИЯ РАБОТНИКОВ")
+    print()
     
     # Ввод данных
     num_employees = int(input("Количество работников: "))
@@ -168,3 +169,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+         
